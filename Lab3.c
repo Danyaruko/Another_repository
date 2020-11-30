@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+/* Lab programming 3 */
 int i, j, x, n = 0, t;
 int dom(int a[10]) {
 	for (i = 0; i <= 9; i++) {
